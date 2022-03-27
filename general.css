@@ -157,7 +157,8 @@ body {
     font-size: 1.8rem;
     display: flex;
     align-items: center;
-    gap: 1.6rem
+    gap: 1.6rem;
+    line-height: 1.2
 }
 
 .list-icon {
